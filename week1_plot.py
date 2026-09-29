@@ -10,5 +10,5 @@ y=df_teeth['MAMMAL']) # set figure x, y axis
 plt.gca().xaxis.set_visible(False)
 
 # TODO: change the title name to include your name
-plt.title("plot for mammal_teeth dataset")
+plt.title("plot for mammal_teeth dataset - Shams Shahin")
 plt.savefig("mammal_teeth_scatterplot.png", dpi=150) # save the figure
